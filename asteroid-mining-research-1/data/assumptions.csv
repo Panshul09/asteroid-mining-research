@@ -1,0 +1,10 @@
+parameter,value,unit,source_type,notes
+feedstock_t,5000,tonnes,modeling assumption,Illustrative commercial-scale scenario.
+resource_fraction,0.1,fraction,modeling assumption,10% resource fraction; not assigned to a specific asteroid.
+extraction_efficiency,0.8,fraction,modeling assumption,Fraction of contained resource successfully recovered.
+delivery_efficiency,0.95,fraction,modeling assumption,Fraction of recovered resource delivered to the customer.
+fixed_cost_usd,1200000000,USD,modeling assumption,Up-front mission/development cost.
+variable_cost_usd_per_t,150000,USD/tonne feedstock,modeling assumption,Mining and processing variable cost.
+mission_months,24,months,modeling assumption,Illustrative operating period.
+operations_cost_usd_per_month,5000000,USD/month,modeling assumption,Operations and support cost.
+benchmark_cost_usd_per_kg,3600,USD/kg,literature benchmark,"Approximate asteroid-derived propellant delivery cost reported for lunar orbit in Colvin, Crane & Lal (2020)."

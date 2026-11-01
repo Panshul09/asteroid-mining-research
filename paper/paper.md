@@ -254,7 +254,7 @@ The main lesson is methodological: asteroid mining cannot be evaluated reliably 
 
 A useful extension would be to replace the notional parameters with mission-specific data, add trajectory and propulsion calculations, and use probabilistic simulations to represent uncertainty. These steps could move the project from a simplified educational scenario model toward a more detailed techno-economic trade study.
 
-**Code and data availability.** The Python model, baseline assumptions, output tables, and figure-generation scripts accompany this paper in the project repository. Replace [ADD GITHUB REPOSITORY URL BEFORE PUBLIC RELEASE] with the public repository link before depositing the final paper.
+**Code and data availability.** The Python model, baseline assumptions, output tables, and figure-generation scripts accompany this paper in the project repository: https://github.com/Panshul09/asteroid-mining-research
 
 **AI assistance disclosure.** Generative AI tools assisted with refining the research question, preparing the initial outline and draft, developing and debugging the Python scenario model, and language editing. The author is responsible for verifying the cited sources, assumptions, calculations, code, and interpretations before public release.
 
