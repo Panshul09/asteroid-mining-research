@@ -1,4 +1,0 @@
-numpy>=2.0
-matplotlib>=3.9
-pandas>=2.2
-pytest>=8.0
